@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moditha Marasingha</h1>
 <h3 align="center">I,m Moditha an aspiring IT professional currently studying at SLIIT. Within these pages, you'll find a collection of my projects, experiences, and skills.</h3>
 
-- 👨‍💻 All of my projects are available at [https://moditham.github.io/Responsive-Portfolio-HTML-CSS/](https://moditham.github.io/Responsive-Portfolio-HTML-CSS/)
+- 👨‍💻 All of my projects are available at [https://moditham.github.io/](https://moditham.github.io/)
 
 - 📫 How to reach me **marasinghamoditha51@gmail.com**
 
