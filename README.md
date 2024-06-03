@@ -18,3 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moditham&show_icons=true&locale=en&layout=compact" alt="moditham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moditham&show_icons=true&locale=en" alt="moditham" /></p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ModithaM&style=for-the-badge&color=orange" alt=""/>
+</div>
