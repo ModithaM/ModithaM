@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width = 250px></p>
-<h1 align="center">Hi 👋, I'm Moditha Marasingha</h1>
+<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Sans-serif&weight=900&size=32&pause=1000&color=000000&center=true&vCenter=true&width=558&height=49&lines=Hi+%F0%9F%91%8B%2C+I'm+Moditha+Marasingha;I'm+a+Software+Engineer;I'm+a+Backend+Developer" alt="Typing SVG" /></p>
 <h3 align="center">I,m Moditha an aspiring IT professional currently studying at SLIIT. Within these pages, you'll find a collection of my projects, experiences, and skills.</h3>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ModithaM&style=for-the-badge&color=blue" alt="Profile Views"/>
