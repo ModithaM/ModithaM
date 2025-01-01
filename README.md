@@ -24,9 +24,9 @@
 ## Stories by Moditha Marasingha on Medium
 
 [Read more](https://medium.com/@moditham?source=rss-bc497992898e------2)
-> Last updated: Wednesday, January 1, 2025 at 10:37:13 AM
+> Last updated: Wednesday, January 1, 2025 at 10:43:07 AM
 
-[![How I Made My Portfolio Website](https://raw.githubusercontent.com/ModithaM/ModithaM/main/blog-post-list-output/Stories_by_Moditha_Marasingha_on_Medium/How_I_Made_My_Portfolio_Website.svg)](https://medium.com/@marasinghamoditha51/how-i-made-my-portfolio-website-07205eb58e50)
+[![How I Made My Portfolio Website](https://raw.githubusercontent.com/ModithaM/ModithaM/main/blog-post-list-output/Stories_by_Moditha_Marasingha_on_Medium/How_I_Made_My_Portfolio_Website.svg)](https://medium.com/@moditham/how-i-made-my-portfolio-website-07205eb58e50?source=rss-bc497992898e------2)
 
 
 <!-- blog-post-list:end -->
