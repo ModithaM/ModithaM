@@ -21,6 +21,18 @@
 <hr>
 
 <!-- blog-post-list:start -->
+## Stories by Moditha Marasingha on Medium
+
+Stories by Moditha Marasingha on Medium
+
+[Read more](https://medium.com/@moditham?source=rss-bc497992898e------2)
+> Last updated: Wednesday, January 1, 2025 at 10:30:59 AM
+
+> Showing 1 of 1 posts.
+
+[![How I Made My Portfolio Website](https://raw.githubusercontent.com/ModithaM/ModithaM/main/blog-post-list-output/Stories_by_Moditha_Marasingha_on_Medium/How_I_Made_My_Portfolio_Website.svg)](https://medium.com/@marasinghamoditha51/how-i-made-my-portfolio-website-07205eb58e50)
+
+
 <!-- blog-post-list:end -->
 
 <hr>
