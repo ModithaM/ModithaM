@@ -1,7 +1,7 @@
 on:
   push:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * 1"
 jobs:
   blog:
     runs-on: ubuntu-latest
