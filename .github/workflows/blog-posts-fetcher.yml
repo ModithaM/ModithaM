@@ -13,6 +13,8 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: https://medium.com/@moditham/feed
+          show_feed_description: false
+          show_post_count: false
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
