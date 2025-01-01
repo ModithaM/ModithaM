@@ -21,7 +21,7 @@
 <hr>
 <h3 align="center">Latest Articles on Medium:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/1" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/1" alt="Recent Article 1">
 
 <hr>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ModithaM&show_icons=true&locale=en&layout=compact" alt="ModithaM" /></p>
