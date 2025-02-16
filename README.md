@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ModithaM&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
-- 👨‍💻 All of my projects are available at [https://moditham.github.io/](https://moditham.github.io/)
+- 👨‍💻 All of my projects are available at [moditha.me](https://moditha.me/)
 
 - 📫 How to reach me **marasinghamoditha51@gmail.com**
 <hr>
