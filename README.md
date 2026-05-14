@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [moditha.me](https://moditha.me/)
 
-- 📫 How to reach me **marasinghamoditha51@gmail.com**
+- 📫 How to reach me **contact@moditha.me**
 <hr>
 <h3 align="center">Latest Articles on Medium:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@moditham/0" alt="Recent Article 0">
